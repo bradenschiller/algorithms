@@ -10,3 +10,5 @@ function doubleNumbers(arr) {
 }
 
 doubleNumbers(array);
+
+// answer: newarr = [2, 4, 6]
